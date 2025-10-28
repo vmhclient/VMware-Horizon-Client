@@ -166,13 +166,6 @@ vmware-view://server?connectUSBOnStartup=true
 
 Activate this in **Horizon Console > Security Settings** to add an extra authentication layer.
 
-## Troubleshooting and Logs
-
-### Frequent Problems and Solutions
-
-* **Black screen on connection?** Try changing the display protocol.
-* **Connection issues?** Check firewall and proxy settings.
-
 ### Viewing Log Files
 
 Access log files here:
