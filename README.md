@@ -165,7 +165,3 @@ vmware-view://server?connectUSBOnStartup=true
 ### Viewing Log Files
 
 Access log files here:
-
-```sh
-C:\Users\<Username>\AppData\Local\VMware\VDM\Logs
-```
