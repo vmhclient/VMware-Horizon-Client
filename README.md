@@ -134,6 +134,3 @@ vmware-view://server?connectUSBOnStartup=true
 ```
 
 ### Audio and Camera Integration
-
-* Improve online meetings with **Real-Time Audio-Video (RTAV)**.
-* Choose your **Preferred Audio Input and Output Devices** for better clarity.
